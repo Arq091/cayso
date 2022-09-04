@@ -1,0 +1,49 @@
+[{
+    "songName": "Right Quick",
+    "imgUrl": "https://img.youtube.com/vi/bRPiDXRUXJI/maxresdefault.jpg",
+    "platform": "Youtube",
+    "link": "https://www.youtube.com/watch?v=bRPiDXRUXJI",
+    "id": 0
+}, {
+    "songName": "wrIst waTch",
+    "imgUrl": "https://img.youtube.com/vi/Q7B5r5c5rm0/maxresdefault.jpg",
+    "platform": "Youtube",
+    "link": "https://www.youtube.com/watch?v=Q7B5r5c5rm0",
+    "id": 1
+}, {
+    "songName": "Mr Gentle",
+    "imgUrl": "https://img.youtube.com/vi/9ukglYgfMeY/maxresdefault.jpg",
+    "platform": "Youtube",
+    "link": "https://www.youtube.com/watch?v=9ukglYgfMeY",
+    "id": 2
+}, {
+    "songName": "Money Up",
+    "imgUrl": "https://img.youtube.com/vi/686t9kxiv_c/maxresdefault.jpg",
+    "platform": "Youtube",
+    "link": "https://www.youtube.com/watch?v=686t9kxiv_c",
+    "id": 3
+}, {
+    "songName": "Money in My Inbox",
+    "imgUrl": "https://f4.bcbits.com/img/a0376634979_10.jpg",
+    "platform": "Spotify",
+    "link": "https://open.spotify.com/track/3KK25Tt4EtlherEpGDgY1Z",
+    "id": 4
+}, {
+    "songName": "Weak4Luv",
+    "imgUrl": "https://i.scdn.co/image/ab67616d00001e022d07060a0d6b4f57a775995a",
+    "platform": "Spotify",
+    "link": "https://open.spotify.com/album/0lxJw3J1WejK2Wj5gxITOD",
+    "id": 5
+}, {
+    "songName": "Commentate",
+    "imgUrl": "https://i1.sndcdn.com/artworks-n0ZTq1KhYdXuWYpN-zvbOAw-t240x240.jpg",
+    "platform": "Soundcloud",
+    "link": "https://soundcloud.com/caysobruh/commentate",
+    "id": 6
+}, {
+    "songName": "Lone Soldier",
+    "imgUrl": "https://i1.sndcdn.com/artworks-RYiHYv0gSBSJsJlD-eXCTPw-t500x500.jpg",
+    "platform": "Soundcloud",
+    "link": "https://soundcloud.com/caysobruh/lone-soldier",
+    "id": 7
+}]
