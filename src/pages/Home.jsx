@@ -13,7 +13,10 @@ function Home() {
               Contact Me!
             </Link>
             <br />I post new tracks, beats and freestyles at my&nbsp;
-            <a href="" className="text-blue-500 hover:underline">
+            <a
+              href="https://www.youtube.com/channel/UCzb5Z1Boq5B6rz323cmXcbA"
+              className="text-blue-500 hover:underline"
+            >
               Youtube channel.
             </a>
             &nbsp;Swing by and give me a sub (please)

@@ -64,7 +64,10 @@ function Contact() {
           <a href="https://soundcloud.com/caysobruh" target="blank">
             <FaSoundcloud className="icon" />
           </a>
-          <a href="https://soundcloud.com/caysobruh" target="blank">
+          <a
+            href="https://www.youtube.com/channel/UCzb5Z1Boq5B6rz323cmXcbA"
+            target="blank"
+          >
             <FaYoutube className="icon" />
           </a>
           <a
