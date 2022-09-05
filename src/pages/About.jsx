@@ -5,12 +5,10 @@ function About() {
     <section>
       <h1 className="title">About</h1>
       <p className="max-w-[40rem] text-lg">
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus
-        ullam eum tenetur recusandae, ea amet eaque laudantium aliquam hic
-        dolore delectus assumenda numquam quae nostrum? Rem officiis nobis
-        corrupti provident, magnam culpa libero mollitia omnis cupiditate
-        ducimus maxime magni quisquam beatae laborum ex in dolore, dolor nihil
-        voluptates, quo sunt doloremque neque! Ea culpa blanditiis quod minima
+        Cayso is a musician specializing in rap/electronic music. With a wide
+        versatility of style and years of experience, the foundation has been
+        laid for an exciting new frontier to emerge. Stay tuned in and tapped in
+        for the latest.
       </p>
     </section>
   );

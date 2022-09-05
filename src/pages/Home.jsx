@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import img from "/src/homeImg.jpg";
 
 function Home() {
   return (
@@ -85,9 +86,9 @@ function Home() {
         </div>
       </article>
       <img
-        src="https://images.unsplash.com/photo-1590086782792-42dd2350140d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        src={img}
         alt="photo of carson"
-        className="shadow-lg shadow-black/50 rounded-2xl hidden md:block h-[28rem] w-[24rem] object-cover object-top"
+        className="shadow-lg shadow-black/50 rounded-2xl hidden md:block h-[33rem] w-[22rem] object-cover object-bottom brightness-150 25 grayscale-[50%]"
       />
     </section>
   );

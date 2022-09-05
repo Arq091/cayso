@@ -3,7 +3,7 @@ import logo from "/logo.svg";
 
 function Nav() {
   return (
-    <nav className="flex text-slate-800 sm:bg-gray-400/70 bg-gray-300 sm:backdrop-blur-sm z-40 py-4 px-[2rem] items-center justify-center sm:justify-between border-b border-gray-400 sticky top-0">
+    <nav className="flex text-slate-800 sm:bg-gray-400/60 bg-gray-300 sm:backdrop-blur-[2px] z-40 py-4 px-[2rem] items-center justify-center sm:justify-between border-b border-gray-400 sticky top-0">
       <Link className="font-bold text-[1.75rem] flex items-center" to="/">
         <img src={logo} alt="" width="50" className="mt-[0.2rem]" />
         <span className="text-black text-[2rem]">ayso</span>
