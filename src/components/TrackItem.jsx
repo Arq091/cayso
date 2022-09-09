@@ -28,7 +28,7 @@ function TrackItem(props) {
       />
       <h1 className="ml-4 font-medium text-lg mt-3">{props.trackName}</h1>
       <a
-        className="ml-4 text-blue-500 text-[0.5rem] underline"
+        className="ml-4 text-blue-500 text-[0.9rem] underline"
         href={props.link}
         target="blank"
       >

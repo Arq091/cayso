@@ -7,7 +7,7 @@ function Home() {
       <article className="flex flex-col justify-between">
         <div>
           <h1 className="title">Hello, I'm Carson.</h1>
-          <p className="max-w-md text-start text-xl">
+          <p className="max-w-md text-start text-lg">
             I'm an artist based in North Carolina. I like to make cool beats.
             Want a collab?&nbsp;
             <Link to="/contact" className="text-blue-500 hover:underline">
@@ -88,7 +88,7 @@ function Home() {
       <img
         src={img}
         alt="photo of carson"
-        className="shadow-lg shadow-black/50 rounded-2xl hidden md:block h-[33rem] w-[22rem] object-cover object-bottom brightness-150 25 grayscale-[50%]"
+        className="shadow-lg shadow-black/50 rounded-2xl hidden md:block h-[29.5rem] w-[22rem] object-cover object-bottom brightness-150 25 grayscale-[50%]"
       />
     </section>
   );
