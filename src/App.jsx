@@ -7,7 +7,6 @@ import About from "./pages/About";
 
 import { Routes, Route, useLocation } from "react-router-dom";
 import { useEffect } from "react";
-import ReactDOM from "react-dom";
 
 const padding = {
   paddingInline: "max(min(20rem, calc((100% - 1024px) / 2)), 20px)",
