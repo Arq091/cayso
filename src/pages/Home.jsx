@@ -6,7 +6,7 @@ function Home() {
     <section className="flex gap-10 justify-center">
       <article className="flex flex-col justify-between">
         <div>
-          <h1 className="title">Hello, I'm Carson.</h1>
+          <h1 className="title">Hello, I'm Casyo.</h1>
           <p className="max-w-md text-start text-lg">
             I'm an artist based in North Carolina. I like to make cool beats.
             Want a collab?&nbsp;
@@ -25,7 +25,7 @@ function Home() {
         </div>
         <div className="space-y-4 mt-[5rem]">
           <Link to="/tracks" className="home-link group">
-            Browse{" "}
+            Browse
             <span className="hidden md:block">&nbsp;some of my&nbsp;</span>{" "}
             tracks
             <svg
@@ -83,6 +83,13 @@ function Home() {
               <polyline points="12 5 19 12 12 19"></polyline>
             </svg>
           </Link>
+          <a
+            className="home-link sm:opacity-0 sm:absolute relative opacity-100"
+            href="https://caysoproductions.beatstars.com"
+            target="blank"
+          >
+            Check Out My Beatstore
+          </a>
         </div>
       </article>
       <img
